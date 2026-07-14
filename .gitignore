@@ -36,3 +36,5 @@ rabbitmq_data/
 
 # Diagnóstico local
 diagnostico_db.py
+# Instaladores y ejecutables
+*.exe
