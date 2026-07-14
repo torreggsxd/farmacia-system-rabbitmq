@@ -1,0 +1,38 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Configuración privada
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Editores
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporales
+*.tmp
+*.bak
+*.swp
+
+# Datos locales
+docker/data/
+mariadb_data/
+rabbitmq_data/
+
+# Diagnóstico local
+diagnostico_db.py
